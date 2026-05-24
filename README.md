@@ -39,5 +39,6 @@ El proyecto se encuentra organizado para separar las responsabilidades de la ló
 **Autores:**
 - Evelin Valentina Robayo Bernal
 - Wilmar Eulises Franco Beltrán
-- Daisy Nicol Malagon Ramirez
+
+
 - 
