@@ -1,5 +1,8 @@
 # eBook Sharing - Dashboard
 
+
+Link de acceso a APP: https://swirl-ninth-64609881.figma.site/
+
 Proyecto desarrollado para la Actividad 4 de la electiva "Desarrollo de aplicaciones web II". 
 La aplicación tiene como objetivo gestionar el catálogo de libros digitales y físicos, permitiendo una experiencia de usuario interactiva y eficiente.
 
@@ -36,3 +39,5 @@ El proyecto se encuentra organizado para separar las responsabilidades de la ló
 **Autores:**
 - Evelin Valentina Robayo Bernal
 - Wilmar Eulises Franco Beltrán
+- Daisy Nicol Malagon Ramirez
+- 
